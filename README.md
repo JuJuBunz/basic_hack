@@ -11,4 +11,6 @@ git clone https://github.com/JuJuBunz/basic_hack.git
 
 cd basic_hack
 
+dos2unix basic_hack.sh (this turns the script back into the original Unix format)
+
 sudo bash basic_hack.sh
