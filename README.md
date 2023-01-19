@@ -5,6 +5,8 @@ Note that the hacking tools on this toolkit like zphisher, evillimiter, etc are 
 Installation is for linux preferably kali linux.
 
 
-Installation steps: git clone https://github.com/JuJuBunz/basic_hack.git
+Installation steps: 
+
+git clone https://github.com/JuJuBunz/basic_hack.git
 
 Sudo bash basic_hack.sh
