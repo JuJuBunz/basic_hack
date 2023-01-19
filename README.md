@@ -8,5 +8,5 @@ Installation is for linux preferably kali linux.
 Installation steps: 
 
 git clone https://github.com/JuJuBunz/basic_hack.git
-
-Sudo bash basic_hack.sh
+cd basic_hack
+sudo bash basic_hack.sh
